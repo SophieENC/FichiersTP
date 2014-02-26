@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <title type="letter">Justine, épouse d'Entremont, écrit à Guillaume d'Entremont, son
+                        beau-frère</title>
+                    <title type="corpus">Corpus Fran Argyle</title>
+                    <desc>
+                        <desc n="type1">Historique</desc>
+                        <desc n="type2">correspondance personnelle</desc>
+                    </desc>
+                    <date type="date-creation_doc_original">18680807</date>
+                    <date type="siècle">19</date>
+                    <location>
+                        <region n="pays">Canada</region>
+                        <region n="province/etat">Nouvelle-Écosse</region>
+                        <region n="Argyle"/>
+                        <region n="autre"/>
+                    </location>
+                    <idno type="Cote_GRTC">FNEARG-H-LET_Argyle_EntJu18680807_IM_CM_F_20130930</idno>
+                </title>
+                <editor>Le français à la mesure d'un continent: un patrimoine en partage
+                    (CRSH/GTRC)</editor>
+                <principal>
+                    <persName>
+                        <surname>Martineau</surname>
+                        <forename>France</forename>
+                    </persName>
+                </principal>
+                <funder>Conseil national de la recherche en sciences humaines (CRSH)</funder>
+                <respStmt>
+                    <resp>Codage</resp>
+                    <orgName xml:id="BC">Base continent</orgName>
+                    <persName xml:id="Séguin">Marie-Clauden Séguin <date>20131217</date>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription<date>20132201</date>
+                        <note/></resp>
+                    <name type="transcription" xml:id="Comeau">Philip Comeau</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Vérification <date>en cours</date><note/></resp>
+                    <name type="Vérification" xml:id="Martineau">France Martineau: École nationale des
+                        Chartes</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition, réalisée dans le cadre du projet <orgName>Le français à la mesure
+                        d'un continent: un patrimoine en partage (CRSH/GTRC)</orgName> en <date when="2014">2014</date> </edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>20131217</date>
+                <publisher>
+                    <orgName>Le français à la mesure d'une continent: un patrimoine en
+                        partage</orgName>
+                    <address>
+                        <addrLine>Université d'Ottawa, département de français</addrLine>
+                        <addrLine>60 rue Université pièce 229b</addrLine>
+                        <addrLine>Ottawa (Ontario)</addrLine>
+                        <addrLine>K1N 6N5</addrLine>
+                        <addrLine>Tél. : 613-562-5800, poste 1104</addrLine>
+                        <addrLine>Fax. : 613-562-5981</addrLine>
+                        <addrLine><email>fmartin@uottawa.ca</email></addrLine>
+                        <addrLine>http://www.continent.uottawa.ca/</addrLine>                        
+                    </address>
+                </publisher>
+                <distributor>
+                    <orgName>Le français à la mesure d'une continent: un patrimoine en
+                        partage</orgName>
+                    <address>
+                        <addrLine>Université d'Ottawa, département de français</addrLine>
+                        <addrLine>60 rue Université pièce 229b</addrLine>
+                        <addrLine>Ottawa (Ontario)</addrLine>
+                        <addrLine>K1N 6N5</addrLine>
+                        <addrLine>Tél. : 613-562-5800, poste 1104</addrLine>
+                        <addrLine>Fax. : 613-562-5981</addrLine>
+                        <addrLine><email>fmartin@uottawa.ca</email></addrLine>
+                        <addrLine>http://www.continent.uottawa.ca/</addrLine>                        
+                    </address>
+                </distributor>
+                <availability status="restricted">
+                    <p>(c) Le français à la mesure d'un continent: un patrimoine en partage
+                        (CRSH/GTRC), dirigé par F. Martineau).</p>
+                    <p>Les Corpus FRAN demeurent la propriété du projet Le français à la mesure d'un
+                        continent: un patrimoine en partage (GTRC/CRSH). Les références à ces Corpus
+                        devraient apparaître ainsi: Corpus FRAN, Le français à la mesure d'un
+                        continent: un patrimoine en partage (F. Martineau (dir.), U. d’Ottawa).Tous
+                        les documents du Corpus FRAN ne peuvent être divulgués à de tierces parties
+                        sans l’autorisation préalable de la directrice du Projet.</p>
+                    <p>Pour tout autre usage, contacter : <persName>France Martineau</persName>,
+                            <email>fmartin@uottawa.ca</email></p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Corpus Fran Argyle</title>
+                        <principal>
+                            <roleName>responsable</roleName>
+                            <forename>France</forename>
+                            <surname>Martineau</surname>
+                            <roleName>co-responsable</roleName>
+                            <forename>Comeau</forename>
+                            <surname>Philip</surname></principal>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>GTRC</publisher>
+                    </publicationStmt>
+                </biblFull>
+                <biblStruct type="source_archivistique">
+                    <monogr>
+                        <imprint>
+                            <pubPlace>Municipalité d'Argyle</pubPlace>
+                            <publisher>
+                                <orgName>Musée des Acadiens des Pubnicos et Centre de recherche
+                                    (municipalité d'Argyle)</orgName>
+                                <persName/>
+                            </publisher>
+                            <respStmt>
+                                <resp>Philip Comeau</resp>
+                                <orgName/>
+                            </respStmt>
+                            <date>20110308</date>
+                            <biblScope/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="source_bibliographique">
+                    <monogr>
+                        <imprint>
+                            <pubPlace/>
+                            <publisher>
+                                <orgName/>
+                                <persName/>
+                            </publisher>
+                            <date/>
+                            <biblScope/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="source_électronique">
+                    <monogr>
+                        <imprint>
+                            <publisher>
+                                <name type="url"/>
+                                <email/>
+                            </publisher>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Le français à la mesure d'un continent: un patrimoine en partage (GTRC/CRSH)
+                        <lb/>Resp.:<persName>France Martineau</persName>,Département de français,
+                    Université d'Ottawa
+                    <address>
+                        <addrLine>Université d'Ottawa, département de français</addrLine>
+                        <addrLine>60 rue Université, pièce 229b</addrLine>
+                        <addrLine>Ottawa (Ontario)</addrLine>
+                        <addrLine>K1N 6N5</addrLine>
+                        <addrLine>Tél : 613-562-5800, poste 1104</addrLine>
+                        <addrLine>Fax : 613-562-5981</addrLine>
+                        <addrLine><email>fmartin@uottawa.ca</email></addrLine>
+                        <addrLine>http://www.continent.uottawa.ca/</addrLine>                        
+                    </address></p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Voir le manuel d'annotation TEI au http://www.voies.uottawa.ca</p>
+                <p>Le corps du texte est obligatoirement compris dans le BODY. Le FRONT contenant le
+                    titre et/ou le prologue et le BACK (explicit) sont facultatifs et ne sont mis
+                    qu'au besoin. </p>
+                <normalization>
+                    <p/>
+                </normalization>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName>
+                        <surname>D'Entremont</surname>
+                        <forename>Justine</forename>
+                    </persName>
+                    <sex>féminin</sex>
+                    <occupation>pêcheur</occupation>
+                    <birth>
+                        <location>
+                            <country>Canada</country>
+                            <region type="province-état">Nouvelle-Écosse</region>
+                            <placeName type="ville">Argyle</placeName>
+                        </location>
+                        <date type="année"/>
+                    </birth>
+                    <langKnowledge>
+                        <langKnown tag="fr-Can">
+                            <lang>parlé</lang>
+                            <lang>écrit</lang>
+                            <lang>lu</lang>
+                            <lang>compris</lang>
+                        </langKnown>
+                        <langKnown tag="en-Can">
+                            <lang/>
+                            <lang/>
+                            <lang/>
+                            <lang/>
+                        </langKnown>
+                        <langKnown tag="other">
+                            <lang/>
+                            <lang/>
+                            <lang/>
+                            <lang/>
+                        </langKnown>
+                        <langKnown tag="other">
+                            <lang/>
+                            <lang/>
+                            <lang/>
+                            <lang/>
+                        </langKnown>
+                    </langKnowledge>
+                    <education>
+                        <measure type="plus-haut-degré"/>
+                    </education>
+                    <education corresp="établissement"/>
+                </person>
+            </particDesc>
+            <langUsage>
+                <language ident="fr-CA" usage="99">français du Canada</language>
+                <language ident="en-CA" usage="1">anglais (quelques mots)</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="GTRC">
+                    <list>
+                        <item n="domaine">Non littéraire</item>
+                        <item n="genre">Correspondance</item>
+                        <item n="docRegion1">Canada</item>
+                        <item n="docRegion2">Nouvelle-Écosse</item>
+                        <item n="docRegion3">Argyle</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="20131217" who="#Séguin">Composition du gabarit</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <head>Argyle</head>
+        </front>
+        <body>
+            <p>Pubnico August 7th – 1868 <lb/>Dear Willie <lb/>comme vous dise que nous <lb/>avont
+                point de reconnaisance pour <lb/>vous je man va vous ecrire une <lb/>longue lette
+                pour repondre a l’honneur <lb/>de votre lette que jai recu hier <lb/>au soir qui
+                était le 6 du moi et <lb/>que jai lu avec beaucoup de plaisir <lb/>que vous
+                jouissiez dune bonne santé <lb/>Ainsi que nous nous jouisson d’une <lb/>parfaite
+                santé A présant. et <lb/>Mandé il était de retour de son <lb/>voyage le 3 de july et
+                il est parti <lb/>le pour la bay au macro <lb/>il était dans port Mulgrave le 29
+                <lb/>de july est a présant je les croi dans <lb/>la bay il aviont 62 Milles moru
+                <lb/>et nous lavont fait et il y an a <lb/>une parti au marchè et lautre <lb/>est
+                paré a parti pour les raged islan <lb/>aussi et le SCh Ayara an avait 62 <lb/>Milles
+                aussi et le J lock 66 et les <lb/>autre comme cela il on fait un <lb/>peu bien si
+                rien arrive. les batiments <lb/>du large fesont un peu bien et les <lb/>homme qui
+                sont a terre prenont des <lb/>harran an abondonce. et pour <lb/>lor je croi q’uil y
+                a un peu de <lb/>diffarance a california il avont<pb n="2"/>
+                <lb/>èué un petit commencement il <lb/>ont an onvoiez a hilifax un peu <lb/>et il on
+                ont trouvé un petit <lb/>et il allon avoir une autre <lb/>asseille bien vitte. je
+                pence que <lb/>si vous êtes de retour cette hiver <lb/>vous aurez bien de lanploi a
+                <lb/>bèché lor que vous traverserez <lb/>point a cape am le praintemps <lb/>qui
+                vient. Ainsi. Ainsi il faut <lb/>que vous vous esecusièz pour ne <lb/>vous avoir
+                point ècrie plus souvent <lb/>nous avont recu vos lette et nous <lb/>avont nègligè
+                de vous ecrire. Mifs <lb/>babin a recu votre lette aussi <lb/>et je ne sai point la
+                raison quelle <lb/>vous repon point elle dit que vous <lb/>lavez lessè elle a point
+                de galont <lb/>je croi quelle est un peu fierre <lb/>Ainsi vous ditte que vous
+                seriez <lb/>bienaise de venir dans Pubnico <lb/>une heure pour savoir des
+                <lb/>nouvelle qui son interessante <lb/>a votre attontion et pour savoir <lb/>des
+                vèrité et des mantri. je ne <lb/>vous conpron point pour moi <lb/>je nai point su
+                aucune choses <lb/><note>à 90o entre p. 2 et 3</note>
+                <lb/>doli vous fait bien cest complument elle <lb/>est parti aujourdhui pour Tusket
+                Wedge est<pb n="3"/>
+                <lb/>qui vous regardait. je serait <lb/>bienaise de savoir quelle est <lb/>votre
+                anbara il faut que vous <lb/>mele demandiez sur une autre <lb/>lette. aussi tot que
+                vous aurez <lb/>ceci et je vous reponderez au <lb/>plutot votre père et mêre etiont
+                <lb/>tré réjouï de recevoir de vos <lb/>nouvelle et moi aussi. Ainsi <lb/>Mandé se
+                réjouissai qu’il allait <lb/>vous voir dans la bay mais je <lb/>croi que sa joi sera
+                vaine quille <lb/>vous voira point mais je man va <lb/>lui ecrire dans Canso et lui
+                <lb/>demandé vos nouvelle. mais il <lb/>disent que les macro sons bien <lb/>rarent
+                dans la bay je pence que <lb/>N g W est parti pour liver cest <lb/>trè annuiant mais
+                lètè scoule <lb/>bien vitre. Ainsi toutes les filles <lb/>sont Aimable comme de
+                coutume <lb/>et le monde est bien tranquille <lb/>et joseph Porter et toujour comme
+                <lb/>de coutume. je croi quil faut <lb/>que vous vous anveniez bien vitte
+                <lb/>parcque vous aurez abondonnez<pb n="4"/>
+                <lb/><note>à 90o sur page 4</note>
+                <lb/>ecrivez je vous reponderez <lb/>le pays et le monde aussi. mais <lb/>je pence
+                que vous allez vous amenez <lb/>une femme de cape Ann puisque <lb/>vous naimez point
+                les filles de <lb/>Pubnico ni celle la de Eel Lake. <lb/>il faut que je vous disent
+                que <lb/>nous avons eue la visite de <lb/>Lèvêque le 30 de july et Beaucoup <lb/>de
+                petitte autre choses que je ne <lb/>peut vous ecrire sur ce papier <lb/>Amie vous
+                ditte que la bonne <lb/>veuve a un petit garcon sa <lb/>lui fera un petit valet bien
+                <lb/>vitte et que vous avez vu <lb/>Mifs Porter je croi quelle va <lb/>pour vous et
+                vous avez vu votre <lb/>oncle Mandé surette e Ciriaque <lb/>cela vous est bien de la
+                compagnie <lb/>Ainsi il faut que je finisse parce’que <lb/>vous trouver[rupture]z ce
+                discour bien annuiant <lb/>et bien sot Votre pere et mêre vous <lb/>souhaite leur
+                melleur respect et quil <lb/>seront trè rejoui de vous voir votre <lb/>mêre vous
+                demande quelle serais <lb/>bienaise que vous achetirent un demi <lb/>baril de lar
+                cette autonne si vous <lb/>pouviez je Justine DEntremont</p>
+        </body>
+    </text>
+</TEI>
